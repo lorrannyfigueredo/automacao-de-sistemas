@@ -2,6 +2,8 @@
 
 ### Intensivão de Python - Desafio:
 
+![pyautogui](https://user-images.githubusercontent.com/97335833/158846708-0c461a4c-8752-40ee-a79d-8568f74c5d73.gif)
+
 Todos os dias, o sistema atualiza as vendas do dia anterior.
 O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, com o faturamento e a quantidade de produtos vendidos no dia anterior.
 
